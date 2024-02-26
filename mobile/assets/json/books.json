@@ -1,0 +1,23 @@
+[
+    {"name": "The Shadow of the Wind", "image": "assets/pngs/book1.png", "page_read": "150/487"},
+    {"name": "The Catcher in the Rye", "image": "assets/pngs/book2.png", "page_read": "210/277"},
+    {"name": "To Kill a Mockingbird", "image": "assets/pngs/book3.png", "page_read": "100/324"},
+    {"name": "Pride and Prejudice", "image": "assets/pngs/book1.png", "page_read": "250/432"},
+    {"name": "The Great Gatsby", "image": "assets/pngs/book2.png", "page_read": "180/392"},
+    {"name": "Harry Potter and the Philosopher's Stone", "image": "assets/pngs/book3.png", "page_read": "200/320"},
+    {"name": "The Hobbit", "image": "assets/pngs/book1.png", "page_read": "120/310"},
+    {"name": "The Hunger Games", "image": "assets/pngs/book2.png", "page_read": "90/374"},
+    {"name": "The Da Vinci Code", "image": "assets/pngs/book3.png", "page_read": "180/454"},
+    {"name": "Gone with the Wind", "image": "assets/pngs/book1.png", "page_read": "300/689"},
+    {"name": "The Alchemist", "image": "assets/pngs/book2.png", "page_read": "120/208"},
+    {"name": "Lord of the Flies", "image": "assets/pngs/book3.png", "page_read": "150/324"},
+    {"name": "The Kite Runner", "image": "assets/pngs/book1.png", "page_read": "180/371"},
+    {"name": "A Game of Thrones", "image": "assets/pngs/book2.png", "page_read": "230/848"},
+    {"name": "The Road", "image": "assets/pngs/book3.png", "page_read": "100/287"},
+    {"name": "The Chronicles of Narnia", "image": "assets/pngs/book1.png", "page_read": "160/767"},
+    {"name": "The Picture of Dorian Gray", "image": "assets/pngs/book2.png", "page_read": "110/278"},
+    {"name": "The Martian", "image": "assets/pngs/book3.png", "page_read": "190/369"},
+    {"name": "Moby Dick", "image": "assets/pngs/book1.png", "page_read": "250/554"},
+    {"name": "The Book Thief", "image": "assets/pngs/book2.png", "page_read": "200/552"}
+  ]
+  
